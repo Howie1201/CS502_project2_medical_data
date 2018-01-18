@@ -14,3 +14,22 @@ This is a data pipeline to analyze medical data
 	patient may want a lower price drug, and some may not care about the price, but only on the
 	effectiveness of the drug.
 
+
+## Link and data that will be used in this project:
+To get general inforamtion of top illness: Cancer, Cardiovascular Disease,Diabetes, Hepatitis B & C
+https://www.fda.gov/ForPatients/Illness/default.htm
+Let say we start with the nofication for Diabetes:
+1. Enter the category 
+2. Get the information: Diabetes Prevention in this link: 
+https://www.fda.gov/ForPatients/Illness/Diabetes/ucm408100.htm
+3. Get information regarding the treatment if patient is already have the illness:
+https://www.fda.gov/ForPatients/Illness/Diabetes/ucm408101.htm
+4. For approved medicine: 
+https://www.fda.gov/ForPatients/Illness/Diabetes/ucm408682.htm
+5. Then look for information at link below to look for listed drugs and compile their attributes
+https://www.accessdata.fda.gov/scripts/cder/daf/ 
+(We also get the predownloaded zip file)
+We can display something like the image below to compare different drugs and do machine learning analysis
+![Example.png]
+
+6. Machine learning and data analysis etc
